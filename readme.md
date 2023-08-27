@@ -2,7 +2,7 @@
 
 I learned this project from Brad Traversy's Tailwind CSS Udemy course.This project focused on tabs selector and accordion.
 
-live demo:
+live demo: https://learn-tailwindcss-bookmark.netlify.app/
 
 ## Usage
 
